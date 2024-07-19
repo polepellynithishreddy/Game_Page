@@ -17,13 +17,13 @@ const games = [
     link: 'https://polepellynithishreddy.github.io/SOS_GAME/'
   },
   {
-    name: 'Snake_Game(Not Yet Created)',
+    name: 'Snake_Game(Under Construction)',
     image: '(blank1).png',
     link: 'https://polepellynithishreddy.github.io/SNAKEGAME/'
   },
 
   {
-    name: 'Pin_Ball_Game(Not Yet Created)',
+    name: 'Pin_Ball_Game(Under Construction)',
     image: '(blank).png',
     link: 'https://polepellynithishreddy.github.io/pinballgame/'
   },
