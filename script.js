@@ -4,18 +4,32 @@ const games = [
   {
     name: 'TIC-TAC-TOE',
     image: 'tic-tac-toe image.png',
-    link: '(link unavailable)'
+    link: 'https://polepellynithishreddy.github.io/TIC-TAC-TOE/'
   },
   {
     name: 'CHECKERS',
     image: 'checkers image.png',
-    link: '(link unavailable)'
+    link: 'https://polepellynithishreddy.github.io/Checkers-Game/'
   },
   {
     name: 'SOS',
     image: 'sos image.png',
-    link: '(link unavailable)'
+    link: 'https://polepellynithishreddy.github.io/SOS_GAME/'
   },
+  {
+    name: 'Snake_Game',
+    image: '(blank).png',
+    link: 'https://polepellynithishreddy.github.io/SNAKEGAME/'
+    <Under Construction>
+  },
+
+  {
+    name: 'Pin_Ball_Game',
+    image: '(blank).png',
+    link: 'https://polepellynithishreddy.github.io/pinballgame/'
+    <Under Construction>
+  },
+  
 ];
 
 games.forEach((game) => {
