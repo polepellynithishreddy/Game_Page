@@ -20,14 +20,14 @@ const games = [
     name: 'Snake_Game',
     image: '(blank).png',
     link: 'https://polepellynithishreddy.github.io/SNAKEGAME/'
-    <Under Construction>
+    <h9>Under Construction</h9>
   },
 
   {
     name: 'Pin_Ball_Game',
     image: '(blank).png',
     link: 'https://polepellynithishreddy.github.io/pinballgame/'
-    <Under Construction>
+    <h9>Under Construction</h9>
   },
   
 ];
