@@ -32,7 +32,7 @@ games.forEach((game) => {
   // Add event listener for help button
   const helpBtn = document.getElementById('help-btn');
   helpBtn.addEventListener('click', () => {
-    const whatsappUrl = 'https://wa.me/qr/XJH27RW34NRDF1>'
+    const whatsappUrl = 'https://wa.me/917396844011'
     window.open(whatsappUrl, '_blank');
   });
   
