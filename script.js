@@ -18,7 +18,7 @@ const games = [
   },
   {
     name: 'Snake_Game(Not Yet Created)',
-    image: '(blank).png',
+    image: '(blank1).png',
     link: 'https://polepellynithishreddy.github.io/SNAKEGAME/'
   },
 
