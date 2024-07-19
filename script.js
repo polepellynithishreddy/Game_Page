@@ -17,19 +17,16 @@ const games = [
     link: 'https://polepellynithishreddy.github.io/SOS_GAME/'
   },
   {
-    name: 'Snake_Game',
+    name: 'Snake_Game(Not Yet Created)',
     image: '(blank).png',
     link: 'https://polepellynithishreddy.github.io/SNAKEGAME/'
-    <h9>Under Construction</h9>
   },
 
   {
-    name: 'Pin_Ball_Game',
+    name: 'Pin_Ball_Game(Not Yet Created)',
     image: '(blank).png',
     link: 'https://polepellynithishreddy.github.io/pinballgame/'
-    <h9>Under Construction</h9>
   },
-  
 ];
 
 games.forEach((game) => {
