@@ -27,6 +27,11 @@ const games = [
     image: '(blank).png',
     link: 'https://polepellynithishreddy.github.io/pinballgame/'
   },
+  {
+    name: 'CALCULATOR',
+    image: '(blank).png',
+    link: 'https://polepellynithishreddy.github.io/CALCULATOR/'
+  },
 ];
 
 games.forEach((game) => {
